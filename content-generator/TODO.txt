@@ -1,0 +1,4 @@
+[] Create OPENAI API Key & Add Environment Variables
+[] Create S3 Bucket or Use RDS
+[] Configure Github Secrets & deploy branch
+[] pip install gpt module
